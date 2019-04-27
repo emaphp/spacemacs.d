@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: magento2-theme-xml
+# key: m2theme
+# --
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+<title>Title</title>
+<parent>Vendor/theme</parent>
+</theme>

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: magento2-jsmodule
+# key: m2-jsmod
+# --
+define([
+'jquery',
+], function (\$) {
+'use strict';
+
+// Your code here
+return {};
+});

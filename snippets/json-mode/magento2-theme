@@ -1,0 +1,22 @@
+# -*- mode: snippet -*-
+# name: magento2-theme
+# key: m2theme
+# --
+{
+"name": "vendor/custom-theme",
+"description": "Custom theme",
+"require": {
+"php": "~7.0.0",
+"magento/theme-frontend-luma": "~100.0",
+"magento/framework": "~100.0"
+},
+"type": "magento2-theme",
+"version": "1.0.0",
+"license": [
+"OSL-3.0",
+"AFL-3.0"
+],
+"autoload": {
+"files": [ "registration.php" ]
+}
+}
