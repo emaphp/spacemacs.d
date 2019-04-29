@@ -17,13 +17,27 @@ This is my configuration folder for [Spacemacs](http://spacemacs.org/)! Mostly a
  * org
  * docker
  * yaml
- * nginx	
+ * nginx
  * version-control
  * syntax-checking
 
 Also includes `vue-mode` for working with with `.vue` files.
 
-## Configuration
+## Features
+
+ * Shows buffer file name on frame title.
+ * Shows line numbers.
+ * Adds snippets from `.spacemacs.d` folder.
+ * Opens Blade templates using `web-mode`.
+ * Increase/Decrease font size with C-+/C--.
+
+## Setup
+
+This config uses `ag` for searching through files:
+
+```
+sudo apt install silversearcher-ag
+```
 
 ### PHP
 
@@ -31,6 +45,7 @@ Make sure you run `php-extras-generate-eldoc` before start using `php-mode`.
 
 ### Javascript
 
+This layer expects `tern` to be installed but it's already discontinued so you can ignore that warning.
 
 ### Go
 
@@ -41,18 +56,22 @@ Before starting, make sure these tools are installed on your system.
  * Source Code Guru: `go get -u -v golang.org/x/tools/cmd/guru`
  * Type-safe renaming: `go get -u -v golang.org/x/tools/cmd/gorename`
  * Updates import list: `go get -u -v golang.org/x/tools/cmd/goimports`
- * Meta Linter: `go get -u -v github.com/alecthomas/gometalinter`
 
-`go-metalinter` requires running the following command afterwards: `gometalinter --install --update`. 
 **Note**: check that `HOME/go/bin` was added to your `PATH`.
 
-## Features
+### Rust
 
- * Shows buffer file name on frame title.
- * Shows line numbers.
- * Adds snippets from `.spacemacs.d` folder.
- * Opens Blade templates using `web-mode`.
- * Increase/Decrease font size with C-+/C--.
+This configuration assumes you'll use *nightly*. You can enable auto-completion after installing `racer`:
+
+```
+cargo +nightly install racer
+```
+
+You should also install `rustfmt`:
+
+```
+rustup component add rustfmt
+```
 
 ## Added shortcuts
 
@@ -73,10 +92,11 @@ Before starting, make sure these tools are installed on your system.
  * `SPC o o l`: Copies the link under the cursor.
  * `SPC o o t`: Cuts an entire org subtree.
  * `SPC o o i`: Inserts an org template.
+ * `SPC o o x`: Cuts subtree.
 
 ### Yasnippet
 
- * `C-c y`: Calls `yas-expand`.
+ * `C-c C-e`: Calls `yas-expand`.
  * `SPC o y i`: Inserts a snippet.
  * `SPC o y n`: Creates a new snippet.
 
@@ -129,6 +149,6 @@ For switching between projects use `SPC {number}`, where *number* is the layer n
 
 ### Git
 
+`SPC g .`: Enters on `vcs-transient-state`.
 `SPC g s`: Opens *magit*.
 `SPC g t`: Time-machine.
-
