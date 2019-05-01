@@ -1,6 +1,13 @@
 # My Spacemacs configuration
 
 [![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://github.com/syl20bnr/spacemacs)
+
+## Usage
+
+```
+git clone https://github.com/emaphp/spacemacs.d .spacemacs.d
+```
+
 ## About
 
 This is my configuration folder for [Spacemacs](http://spacemacs.org/)! Mostly aimed for web development using PHP and Javascript. It also includes a bunch of snippets for working with Bootstrap 4 and Magento 2.
