@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Pill Danger
+# key: bs4--p__dng
+# --
+<span class="badge badge-pill badge-danger">$0</span>
