@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Button Dark
+# key: bs4--btn__drk
+# --
+<button type="button" class="btn btn-dark">$0</button>

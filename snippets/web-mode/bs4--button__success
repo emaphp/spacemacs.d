@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Button Success
+# key: bs4--btn__scs
+# --
+<button type="button" class="btn btn-success">$0</button>

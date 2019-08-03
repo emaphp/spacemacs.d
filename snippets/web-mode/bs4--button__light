@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Button Light
+# key: bs4--btn__lgt
+# --
+<button type="button" class="btn btn-light">$0</button>

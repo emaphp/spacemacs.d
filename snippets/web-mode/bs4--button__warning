@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Button Warning
+# key: bs4--btn__wrn
+# --
+<button type="button" class="btn btn-warning">$0</button>

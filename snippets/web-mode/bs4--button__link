@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Button Link
+# key: bs4--btn__lnk
+# --
+<button type="button" class="btn btn-link">$0</button>

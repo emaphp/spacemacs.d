@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Button Secondary
+# key: bs4--btn__scn
+# --
+<button type="button" class="btn btn-secondary">$0</button>
