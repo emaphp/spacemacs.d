@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Outline Button
+# key: bs4--obtn
+# --
+<button type="button" class="btn btn-outline-$1">$0</button>

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Outline Button Light
+# key: bs4--obtn__lgt
+# --
+<button type="button" class="btn btn-outline-light">$0</button>

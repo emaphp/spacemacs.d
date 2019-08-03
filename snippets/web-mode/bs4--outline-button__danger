@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Outline Button Danger
+# key: bs4--obtn__dng
+# --
+<button type="button" class="btn btn-outline-danger">$0</button>

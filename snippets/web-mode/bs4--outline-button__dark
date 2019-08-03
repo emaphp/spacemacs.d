@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Outline Button Dark
+# key: bs4--obtn__drk
+# --
+<button type="button" class="btn btn-outline-dark">$0</button>

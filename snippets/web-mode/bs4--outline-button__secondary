@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Outline Button Secondary
+# key: bs4--obtn__scn
+# --
+<button type="button" class="btn btn-outline-secondary">$0</button>

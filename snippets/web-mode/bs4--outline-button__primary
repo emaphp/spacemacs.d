@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Outline Button Primary
+# key: bs4--obtn__prm
+# --
+<button type="button" class="btn btn-outline-primary">$0</button>

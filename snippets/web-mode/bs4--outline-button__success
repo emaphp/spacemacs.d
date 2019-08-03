@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Outline Button Success
+# key: bs4--obtn__scs
+# --
+<button type="button" class="btn btn-outline-success">$0</button>
