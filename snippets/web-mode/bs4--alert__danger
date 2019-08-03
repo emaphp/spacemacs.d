@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Alert Danger
+# key: bs4--a__dng
+# --
+<div class="alert alert-danger" role="alert">$0</div>

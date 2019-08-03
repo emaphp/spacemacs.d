@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Alert Dark
+# key: bs4--a__drk
+# --
+<div class="alert alert-dark" role="alert">$0</div>

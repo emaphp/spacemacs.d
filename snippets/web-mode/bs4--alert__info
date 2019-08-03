@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Alert Info
+# key: bs4--a__inf
+# --
+<div class="alert alert-info" role="alert">$0</div>

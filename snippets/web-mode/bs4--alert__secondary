@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Alert Secondary
+# key: bs4--a__scn
+# --
+<div class="alert alert-secondary" role="alert">$0</div>

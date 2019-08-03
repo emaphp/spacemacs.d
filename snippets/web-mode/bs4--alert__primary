@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Alert Primary
+# key: bs4--a__prm
+# --
+<div class="alert alert-primary" role="alert">$0</div>

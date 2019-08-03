@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Alert Light
+# key: bs4--a__lgt
+# --
+<div class="alert alert-light" role="alert">$0</div>

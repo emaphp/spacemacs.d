@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Alert Success
+# key: bs4--a__scs
+# --
+<div class="alert alert-success" role="alert">$0</div>
