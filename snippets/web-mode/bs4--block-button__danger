@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Block Button Danger
+# key: bs4--bbtn__dng
+# --
+<button type="button" class="btn btn-block btn-danger">$0</button>

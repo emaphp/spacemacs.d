@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Block Button Info
+# key: bs4--bbtn__inf
+# --
+<button type="button" class="btn btn-block btn-info">$0</button>

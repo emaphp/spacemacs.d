@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Block Button
+# key: bs4--bbtn
+# --
+<button type="button" class="btn btn-block btn-$1">$0</button>

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Block Button Primary
+# key: bs4--bbtn__prm
+# --
+<button type="button" class="btn btn-block btn-primary">$0</button>
