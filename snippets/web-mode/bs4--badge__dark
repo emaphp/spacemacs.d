@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Badge Dark
+# key: bs4--b__drk
+# --
+<span class="badge badge-dark">$0</span>

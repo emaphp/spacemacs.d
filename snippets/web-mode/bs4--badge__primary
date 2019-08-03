@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Badge Primary
+# key: bs4--b__prm
+# --
+<span class="badge badge-primary">$0</span>

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Badge Secondary
+# key: bs4--b__scn
+# --
+<span class="badge badge-secondary">$0</span>

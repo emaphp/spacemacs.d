@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Badge Success
+# key: bs4--b__scs
+# --
+<span class="badge badge-success">$0</span>

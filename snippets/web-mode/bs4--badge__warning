@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Badge Warning
+# key: bs4--b__wrn
+# --
+<span class="badge badge-warning">$0</span>
