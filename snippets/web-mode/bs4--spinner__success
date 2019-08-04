@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Spinner Success
+# key: bs4--spn__scs
+# --
+<div class="spinner-border text-success" role="status">
+<span class="sr-only">$0</span>
+</div>

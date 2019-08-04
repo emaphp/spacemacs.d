@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Spinner Info
+# key: bs4--spn__inf
+# --
+<div class="spinner-border text-info" role="status">
+<span class="sr-only">$0</span>
+</div>
