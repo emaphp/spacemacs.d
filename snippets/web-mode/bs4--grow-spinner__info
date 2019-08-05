@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Grown Spinner Info
+# key: bs4--gspn__inf
+# --
+<div class="spinner-grow text-info" role="status">
+<span class="sr-only">$0</span>
+</div>

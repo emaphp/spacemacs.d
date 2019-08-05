@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Grow Spinner Light
+# key: bs4--gspn__lgt
+# --
+<div class="spinner-grow text-light" role="status">
+<span class="sr-only">$0</span>
+</div>

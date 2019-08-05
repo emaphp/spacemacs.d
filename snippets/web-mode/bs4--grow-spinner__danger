@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Grow Spinner Danger
+# key: bs4--gspn__dng
+# --
+<div class="spinner-grow text-danger" role="status">
+<span class="sr-only">$0</span>
+</div>

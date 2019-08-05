@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Bootstrap 4 - Grow Spinner Primary
+# key: bs4--gspn__prm
+# --
+<div class="spinner-grow text-primary" role="status">
+<span class="sr-only">$0</span>
+</div>
